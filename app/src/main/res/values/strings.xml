@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyTask</string>
+    <string name="BloodGroup">Blood Group</string>
+    <string name="Post">Post</string>
+    <string-array name="division_list">
+        <item>Binalbagan</item>
+        <item>Himamaylan</item>
+        <item>Hinigaran</item>
+        <item>Kabankalan</item>
+        <item>Cauyan</item>
+        <item>Sipalay</item>
+        <item>Candoni</item>
+        <item>Dumaguete</item>
+
+    </string-array>
+    <array name="Blood_Group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+</resources>
